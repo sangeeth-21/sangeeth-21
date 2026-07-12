@@ -12,7 +12,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sangeethkumar&style=for-the-badge&color=0e75b6)
 [![Website](https://img.shields.io/badge/🌐%20specd.in-Visit%20Us-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://specd.in)
 [![Twitter](https://img.shields.io/badge/Twitter-@sangeethkumar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sangeethkumar)
-[![Email](https://img.shields.io/badge/Email-sangeeth@specd.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangeeth@specd.in)
+[![Personal Email](https://img.shields.io/badge/Email-ksangeeth76@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksangeeth76@gmail.com)
+[![Business Email](https://img.shields.io/badge/Business-info@stiqr.in-4285F4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:info@stiqr.in)
 
 </div>
 
@@ -25,6 +26,10 @@ name        : Sangeethkumar
 role        : Founder & CEO @ Specd In | Full-Stack Engineer
 location    : Tamil Nadu, India 🇮🇳
 website     : https://specd.in
+
+contact:
+  personal  : ksangeeth76@gmail.com
+  business  : info@stiqr.in
 
 company:
   name      : Specd In
@@ -297,7 +302,7 @@ main          ← production  →  specd.in
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Streak
 
 <div align="center">
 
@@ -308,7 +313,7 @@ main          ← production  →  specd.in
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangeethkumar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangeethkumar&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF5722&currStreakLabel=6AD3F7)](https://git.io/streak-stats)
 
 </div>
 
@@ -381,7 +386,8 @@ main          ← production  →  specd.in
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sangeethkumar)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sangeethkumar)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/specdin)
-[![Email](https://img.shields.io/badge/Email-sangeeth@specd.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangeeth@specd.in)
+[![Personal Email](https://img.shields.io/badge/Personal-ksangeeth76@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksangeeth76@gmail.com)
+[![Business Email](https://img.shields.io/badge/Business-info@stiqr.in-4285F4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:info@stiqr.in)
 
 </div>
 
