@@ -8,11 +8,11 @@
 
 <br/>
 
+<!-- Badges Row -->
 ![Profile Views](https://komarev.com/ghpvc/?username=sangeethkumar&style=for-the-badge&color=0e75b6)
 [![Website](https://img.shields.io/badge/🌐%20specd.in-Visit%20Us-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://specd.in)
 [![Twitter](https://img.shields.io/badge/Twitter-@sangeethkumar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sangeethkumar)
-[![Personal Email](https://img.shields.io/badge/Email-ksangeeth76@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksangeeth76@gmail.com)
-[![Business Email](https://img.shields.io/badge/Business-info@stiqr.in-4285F4?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:info@stiqr.in)
+[![Email](https://img.shields.io/badge/Email-sangeeth@specd.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangeeth@specd.in)
 
 </div>
 
@@ -26,10 +26,6 @@ role        : Founder & CEO @ Specd In | Full-Stack Engineer
 location    : Tamil Nadu, India 🇮🇳
 website     : https://specd.in
 
-contact:
-  personal  : ksangeeth76@gmail.com
-  business  : info@stiqr.in
-
 company:
   name      : Specd In
   web       : specd.in
@@ -38,6 +34,14 @@ company:
     - Next-gen digital products
     - Developer tooling & automation
     - Scalable cloud-native platforms
+
+expertise:
+  - Full-Stack Web Development
+  - Mobile Engineering (iOS · Android · Cross-Platform)
+  - Cloud Architecture & DevOps
+  - AI / ML Engineering
+  - System Design & Microservices
+  - CI/CD Pipeline Automation
 
 currently:
   - 🔭 Scaling Specd In to the next level
@@ -65,7 +69,39 @@ fun_fact    : "I don't just write code — I architect experiences."
 
 ---
 
-## 🧰 Skills & Tech Stack
+## ⚙️ CI/CD Pipeline Architecture
+
+```mermaid
+graph LR
+    A[👨‍💻 Code Push] --> B[🔍 Lint & Format Check]
+    B --> C[🧪 Unit & Integration Tests]
+    C --> D[🔒 SAST Security Scan]
+    D --> E[🏗️ Build & Compile]
+    E --> F[🐳 Docker Build & Push]
+    F --> G[📦 Artifact Registry]
+    G --> H{Branch Strategy}
+    H -->|feature/*| I[🧩 Dev Environment]
+    H -->|staging| J[🔬 Staging Environment]
+    H -->|main| K[🚀 Production Deploy]
+    K --> L[📊 Monitoring & Observability]
+    L --> M[🔔 Alerts & Incident Response]
+    M --> N[🔁 Feedback Loop]
+```
+
+### 🛠️ Pipeline Toolchain
+
+| Stage | Tools |
+|-------|-------|
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
+| **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white) ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white) |
+| **Containerization** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) |
+| **Infrastructure as Code** | ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white) |
+| **Monitoring** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white) |
+| **Security** | ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white) |
+
+---
+
+## 🧰 Complete Tech Stack
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -109,9 +145,6 @@ fun_fact    : "I don't just write code — I architect experiences."
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### 🤖 AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -121,35 +154,100 @@ fun_fact    : "I don't just write code — I architect experiences."
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🛠️ DevOps & Tooling
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-
 ---
 
-## ⚙️ CI/CD Pipeline Architecture
+## 🚀 Developer Actions & Workflows
 
-```mermaid
-graph LR
-    A[👨‍💻 Code Push] --> B[🔍 Lint & Format Check]
-    B --> C[🧪 Unit & Integration Tests]
-    C --> D[🔒 SAST Security Scan]
-    D --> E[🏗️ Build & Compile]
-    E --> F[🐳 Docker Build & Push]
-    F --> G[📦 Artifact Registry]
-    G --> H{Branch Strategy}
-    H -->|feature/*| I[🧩 Dev Environment]
-    H -->|staging| J[🔬 Staging Environment]
-    H -->|main| K[🚀 Production Deploy]
-    K --> L[📊 Monitoring & Observability]
-    L --> M[🔔 Alerts & Incident Response]
-    M --> N[🔁 Feedback Loop]
+<details>
+<summary><b>⚙️ GitHub Actions — Standard CI/CD Pipeline</b></summary>
+
+```yaml
+# .github/workflows/ci-cd.yml
+name: 🚀 Specd In — CI/CD Pipeline
+
+on:
+  push:
+    branches: [main, staging, develop]
+  pull_request:
+    branches: [main]
+
+env:
+  REGISTRY: ghcr.io
+  IMAGE_NAME: ${{ github.repository }}
+
+jobs:
+
+  lint-and-test:
+    name: 🔍 Lint, Format & Test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npm run lint
+      - run: npm run format:check
+      - run: npm run test:coverage
+      - uses: codecov/codecov-action@v4
+
+  security-scan:
+    name: 🔒 Security Audit
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: snyk/actions/node@master
+        env:
+          SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
+      - uses: aquasecurity/trivy-action@master
+        with:
+          scan-type: fs
+          severity: CRITICAL,HIGH
+
+  build-and-push:
+    name: 🐳 Build & Push Docker Image
+    needs: [lint-and-test, security-scan]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker/login-action@v3
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+      - uses: docker/build-push-action@v5
+        with:
+          push: true
+          tags: ${{ env.REGISTRY }}/sangeethkumar/${{ github.event.repository.name }}:latest
+
+  deploy-staging:
+    name: 🔬 Deploy to Staging
+    needs: build-and-push
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/staging'
+    steps:
+      - name: Deploy via ArgoCD (Staging)
+        run: argocd app sync staging-app --server ${{ secrets.ARGOCD_URL }}
+
+  deploy-production:
+    name: 🚀 Deploy to Production
+    needs: build-and-push
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    environment:
+      name: production
+      url: https://specd.in
+    steps:
+      - name: Deploy via ArgoCD (Production)
+        run: argocd app sync prod-app --server ${{ secrets.ARGOCD_URL }} --force
+      - name: Notify Deployment
+        run: |
+          curl -X POST ${{ secrets.SLACK_WEBHOOK }} \
+          -d '{"text":"✅ Production deployed successfully — specd.in"}'
 ```
+
+</details>
 
 <details>
 <summary><b>🧪 Testing Strategy</b></summary>
@@ -203,69 +301,20 @@ main          ← production  →  specd.in
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sangeethkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeethkumar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-### 🔥 Streak Stats
-
-The public streak-stats endpoints (`herokuapp.com`, `demolab.com`) are community-hosted and go down often — that's almost certainly why it wasn't rendering. The reliable fix is to **self-host the image**: a GitHub Action regenerates a static `streak-stats.svg` inside this repo on a schedule, so the README references a file you own instead of a third-party server.
-
-**Setup (one-time):**
-1. Save the workflow below as `.github/workflows/streak-stats.yml` in your `sangeethkumar/sangeethkumar` profile repo.
-2. Run it once manually (Actions tab → "Generate Streak Stats SVG" → **Run workflow**) to create `streak-stats.svg`.
-3. It commits an updated SVG daily, and the image below always points at your own repo instead of a flaky public server.
-
-```yaml
-name: 🔥 Generate Streak Stats SVG
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-      - uses: DenverCoder1/github-readme-streak-stats@v3
-        with:
-          user_id: sangeethkumar
-          theme: tokyonight
-          hide_border: true
-          type: svg
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-      - run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add streak-stats.svg
-          git diff --staged --quiet || git commit -m "chore: update streak stats"
-          git push
-```
-
-Then reference the self-hosted file directly:
-
-```md
-![Streak Stats](./streak-stats.svg)
-```
-
-<div align="center">
-
-<!-- Self-hosted version — uncomment once the Action has run at least once -->
-<!-- <img src="./streak-stats.svg" alt="GitHub Streak"/> -->
-
-<!-- Live fallback while you set up the Action above -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sangeethkumar&theme=tokyonight&hide_border=true)](https://github.com/sangeethkumar)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sangeethkumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeethkumar&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sangeethkumar&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangeeth-21&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sangeeth-21&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -275,7 +324,7 @@ Then reference the self-hosted file directly:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sangeethkumar&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sangeeth-21&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -332,8 +381,7 @@ Then reference the self-hosted file directly:
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sangeethkumar)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sangeethkumar)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/specdin)
-[![Personal Email](https://img.shields.io/badge/Personal-ksangeeth76@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksangeeth76@gmail.com)
-[![Business Email](https://img.shields.io/badge/Business-info@stiqr.in-4285F4?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:info@stiqr.in)
+[![Email](https://img.shields.io/badge/Email-sangeeth@specd.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangeeth@specd.in)
 
 </div>
 
