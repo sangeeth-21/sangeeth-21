@@ -9,8 +9,9 @@
 <br/>
 
 <!-- Badges Row -->
-![Profile Views](https://komarev.com/ghpvc/?username=sangeethkumar&style=for-the-badge&color=0e75b6)
+![Profile Views](https://komarev.com/ghpvc/?username=sangeeth-21&style=for-the-badge&color=0e75b6)
 [![Website](https://img.shields.io/badge/🌐%20specd.in-Visit%20Us-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://specd.in)
+[![GitHub](https://img.shields.io/badge/GitHub-sangeeth--21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sangeeth-21)
 [![Twitter](https://img.shields.io/badge/Twitter-@sangeethkumar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sangeethkumar)
 [![Email](https://img.shields.io/badge/Email-sangeeth@specd.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangeeth@specd.in)
 
@@ -22,6 +23,7 @@
 
 ```yaml
 name        : Sangeethkumar
+github      : sangeeth-21
 role        : Founder & CEO @ Specd In | Full-Stack Engineer
 location    : Tamil Nadu, India 🇮🇳
 website     : https://specd.in
@@ -219,7 +221,7 @@ jobs:
       - uses: docker/build-push-action@v5
         with:
           push: true
-          tags: ${{ env.REGISTRY }}/sangeethkumar/${{ github.event.repository.name }}:latest
+          tags: ${{ env.REGISTRY }}/sangeeth-21/${{ github.event.repository.name }}:latest
 
   deploy-staging:
     name: 🔬 Deploy to Staging
@@ -301,8 +303,8 @@ main          ← production  →  specd.in
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sangeethkumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeethkumar&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sangeeth-21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeeth-21&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -334,8 +336,8 @@ main          ← production  →  specd.in
 
 <div align="center">
 
-[![Specd In Platform](https://github-readme-stats.vercel.app/api/pin/?username=sangeethkumar&repo=specdin-platform&theme=tokyonight&hide_border=true)](https://github.com/sangeethkumar/specdin-platform)
-[![DevOps Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=sangeethkumar&repo=devops-toolkit&theme=tokyonight&hide_border=true)](https://github.com/sangeethkumar/devops-toolkit)
+[![Specd In Platform](https://github-readme-stats.vercel.app/api/pin/?username=sangeeth-21&repo=specdin-platform&theme=tokyonight&hide_border=true)](https://github.com/sangeeth-21/specdin-platform)
+[![DevOps Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=sangeeth-21&repo=devops-toolkit&theme=tokyonight&hide_border=true)](https://github.com/sangeeth-21/devops-toolkit)
 
 </div>
 
@@ -376,6 +378,7 @@ main          ← production  →  specd.in
 <div align="center">
 
 [![Website](https://img.shields.io/badge/🌐%20specd.in-Explore-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://specd.in)
+[![GitHub](https://img.shields.io/badge/GitHub-sangeeth--21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sangeeth-21)
 [![Twitter/X](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sangeethkumar)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sangeethkumar)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sangeethkumar)
